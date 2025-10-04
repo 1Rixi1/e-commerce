@@ -1,8 +1,7 @@
-@use "theme/pink";
 @use "theme/blue";
+@use "theme/pink";
 @use "global";
 @use "reset";
-
 
 body {
   font: var(--font-m);
